@@ -8,8 +8,6 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 
-///ERGUN MERT ÇAKIR
-///20140855041(İ.Ö)
 
 public class Msqlbaglan {
     private Connection conn;
