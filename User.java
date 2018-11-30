@@ -1,8 +1,7 @@
 
 package telefondefteri;
 
-///ERGUN MERT ÇAKIR
-///20140855041(İ.Ö)
+
 public class User {//isim soy isim ve no alma ( get set)
     
 	private String name;
