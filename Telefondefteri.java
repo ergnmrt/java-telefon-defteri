@@ -1,7 +1,6 @@
 
 
-///ERGUN MERT ÇAKIR
-///20140855041(İ.Ö)
+
 package telefondefteri;
 
 import java.util.Scanner;
